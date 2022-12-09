@@ -1,5 +1,4 @@
-# Dijkstra-Algorithm
-Find The Shortest Path Using Dijkstra Algorithm in C++
+# Find The Shortest Path Using Dijkstra Algorithm in C++
 
 The Dijkstra method is a well-known algorithm for finding the optimum path in shortest-path 
 search problems. The objective of this project is to create a program to find the shortest path 
